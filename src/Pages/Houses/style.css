@@ -1,0 +1,55 @@
+
+
+
+.hero-searchInput{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  width:30vw;
+  padding: 13px;
+  border-radius: 50px;
+  border:2px solid #2A5555; 
+  background-color: #fdb200a1;  
+  background-image: url(../../Utils/images/search.jpg);
+}
+/* .herosearchpage{
+  background-image: url(../../Utils/images/search.jpg);
+  opacity: 90%;
+} */
+
+.serach-btn{
+  position: absolute;
+  border: none;
+  height: 35px;
+  right:380px;
+  bottom: 2px;
+  border-radius: 50px;
+  background-color: var(--secondary-color);
+
+}
+.searchicon{
+  color:#1e5454;
+}
+
+
+.searchhh{
+  margin-top: 4rem;
+  position:relative;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.herosearch {
+  border: 2px solid #E6E6E6;
+}
+
+
+
+.filter {
+  padding-top: 2em;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  
+}
